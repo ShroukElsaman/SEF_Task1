@@ -1,0 +1,35 @@
+body {
+  background-color: #d5d7da;
+}
+div {
+  width: 350px;
+  height: 250px;
+  background-color: #e4dfdf;
+  color: #161a19;
+  border: 2px solid #1877f2;
+  border-radius: 15px;
+}
+h1 {
+  color: #1877f2;
+}
+
+button {
+  width: 340px;
+  height: 45px;
+  background-color: #1877f2;
+  color: #fff;
+  border: 2px solid #1877f2;
+  border-radius: 15px;
+  font-size: 20px;
+}
+
+ol {
+  width: 300px;
+  background-color: #e4dfdf;
+  color: #050300;
+  border: 2px solid #1877f2;
+  border-radius: 15px;
+}
+select {
+  background-color: #e4dfdf;
+}
